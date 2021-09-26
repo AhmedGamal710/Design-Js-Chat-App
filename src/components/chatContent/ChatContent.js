@@ -12,7 +12,7 @@ export default class ChatContent extends Component {
       image:
         "https://i.pinimg.com/originals/26/b1/61/26b1613b315bc6e6b8f220499014b427.jpg",
       type: "",
-      msg: "Hi Tim, How are you?",
+      msg: "Hi 5o5a, How are you?",
     },
     {
       key: 2,
